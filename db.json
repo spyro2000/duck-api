@@ -18,15 +18,15 @@
 
 	"birthdays": [{
 			"duckId": 1,
-			"value": "l934-06-09"
+			"localDate": "l934-06-09"
 		},
 		{
 			"duckId": 1,
-			"value": "1940-05-16"
+			"localDate": "1940-05-16"
 		},
 		{
 			"duckId": 1,
-			"value": "1867-03-13"
+			"localDate": "1867-03-13"
 		}
 	],
 
