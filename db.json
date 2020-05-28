@@ -1,31 +1,31 @@
 {
 	"ducks": [{
-			"id": 1,
+			"id": 0,
 			"firstName": "Donald",
 			"lastName": "Duck"
 		},
 		{
-			"id": 2,
+			"id": 1,
 			"firstName": "Daisy",
 			"lastName": "Duck"
 		},
 		{
-			"id": 2,
+			"id": 3
 			"firstName": "Dagobert",
 			"lastName": "Duck"
 		}
 	],
 
 	"birthdays": [{
-			"duckId": 1,
+			"duckId": 0,
 			"localDate": "1934-06-09"
 		},
 		{
-			"duckId": 2,
+			"duckId": 1,
 			"localDate": "1940-05-16"
 		},
 		{
-			"duckId": 3,
+			"duckId": 2,
 			"localDate": "1867-03-13"
 		}
 	],
