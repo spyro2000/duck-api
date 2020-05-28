@@ -2,13 +2,24 @@
   "ducks": [
     {
       "id": 1,
-      "name": "Donald"
+      "firstName": "Donald",
+	  "lastName": "Duck",
+	  "birthday": "l934-06-09"
     },
-    {
-      "id": 2,
-      "name": "Daisy"
+	{
+      "id": 1,
+      "firstName": "Daisy",
+	  "lastName": "Duck",
+	  "birthday": "1940-05-16"
+    },
+	{
+      "id": 1,
+      "firstName": "Dagobert",
+	  "lastName": "Duck",
+	  "birthday": "1867-03-13"
     }
   ],
+  
   "profile": {
     "name": "typicode"
   }
