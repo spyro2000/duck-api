@@ -1,38 +1,36 @@
 {
-  "ducks": [
-    {
-      "id": 1,
-      "firstName": "Donald",
-	  "lastName": "Duck" 
-    },
-	{
-      "id": 1,
-      "firstName": "Daisy",
-	  "lastName": "Duck"
-    },
-	{
-      "id": 1,
-      "firstName": "Dagobert",
-	  "lastName": "Duck"
-    }
-  ],
-  
-  "birthdays": [
-	{
-		"duckId": 1,
-		"value": "l934-06-09"
-	},
-	{
-		"duckId": 1,
-		"value": "1940-05-16"
-	},
-	{
-		"duckId": 1,
-		"value": "1867-03-13"
+	"ducks": [{
+			"id": 1,
+			"firstName": "Donald",
+			"lastName": "Duck"
+		},
+		{
+			"id": 1,
+			"firstName": "Daisy",
+			"lastName": "Duck"
+		},
+		{
+			"id": 1,
+			"firstName": "Dagobert",
+			"lastName": "Duck"
+		}
+	],
+
+	"birthdays": [{
+			"duckId": 1,
+			"value": "l934-06-09"
+		},
+		{
+			"duckId": 1,
+			"value": "1940-05-16"
+		},
+		{
+			"duckId": 1,
+			"value": "1867-03-13"
+		}
+	],
+
+	"profile": {
+		"name": "typicode"
 	}
-  ]
-  
-  "profile": {
-    "name": "typicode"
-  }
 }
